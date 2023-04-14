@@ -1,3 +1,3 @@
 module github.com/n123tw/netology-sysadm-cicd-1
 
-go 1.20.3
+go 1.20
