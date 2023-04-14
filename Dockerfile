@@ -1,4 +1,4 @@
-FROM golang:1.20.3 AS builder
+FROM golang:1.20 AS builder
 
 # Copy the code from the host and compile it
 WORKDIR $GOPATH/src/github.com/n123tw/netology-sysadm-cicd-1
